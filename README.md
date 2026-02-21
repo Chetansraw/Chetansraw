@@ -2,7 +2,7 @@
 <h3 align="center">Automation Test Engineer | Python | Selenium | Appium</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8F33DF&width=600&lines=Building+Hybrid+Automation+Frameworks;API+Testing+%26+CI%2FCD+Integration;Creative+Python+Tools+for+Productivity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8F33DF&width=600&lines=Learning+Automation+Testing;Building+Hybrid+Frameworks;Exploring+Mobile+Testing+with+Appium" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,12 +15,12 @@
 
 ## 🚀 About Me
 
-I'm an Automation Test Engineer with **6 months of industry experience at Wipro**. I specialize in designing scalable automation frameworks, API testing, and building creative Python tools that boost productivity. Passionate about delivering high‑quality software through efficient test automation and continuous improvement.
+I'm an Automation Test Engineer with **6 months of industry experience at Wipro**. I'm passionate about building efficient test automation frameworks and continuously improving my skills in Python, Selenium, and mobile testing.
 
-- 🔭 I’m currently working on **enhancing my hybrid automation framework with cloud execution**  
-- 🌱 I’m currently learning **advanced CI/CD patterns and mobile automation**  
-- 💬 Ask me about **Selenium, Appium, Pytest, or anything test automation**  
-- ⚡ Fun fact: I built a desktop pet that keeps me focused – and it actually works!
+- 🔭 I’m currently working on **enhancing my hybrid automation framework**  
+- 🌱 I’m currently learning **Appium for Android testing and CI/CD integration**  
+- 💬 Ask me about **Python, Selenium, Pytest, and test automation basics**  
+- ⚡ Fun fact: I'm building a desktop pet to keep myself focused while coding!
 
 ---
 
@@ -31,7 +31,6 @@ I'm an Automation Test Engineer with **6 months of industry experience at Wipro*
 ![Appium](https://img.shields.io/badge/Appium-EE4D2E?style=for-the-badge&logo=appium&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -42,25 +41,25 @@ I'm an Automation Test Engineer with **6 months of industry experience at Wipro*
 
 ## 📌 Featured Projects
 
-Here are the projects I'm most proud of – each one built to solve real problems and demonstrate my skills.
+Here are some projects I'm currently building to strengthen my automation skills.
 
 ### [🔹 Hybrid Web Automation Framework](https://github.com/Chetansraw/web-automation-framework)
-A modular, data‑driven test automation framework using **Selenium + Pytest + POM**. Features parallel execution, Allure reporting, Docker containerization, and a CI/CD pipeline via GitHub Actions.
+A modular test automation framework using **Selenium + Pytest + POM**. Features data-driven testing, parallel execution, Allure reporting, and CI/CD via GitHub Actions.
 
-**Tech:** Python, Selenium, Pytest, Docker, Allure, GitHub Actions
+**Tech:** Python, Selenium, Pytest, Allure, GitHub Actions
 
 ### [🔹 Appium Android Testing Framework](https://github.com/Chetansraw/appium-android-framework)
-Mobile automation framework for Android apps (Wikipedia) with gesture automation, network simulation, and visual regression testing using OpenCV. Supports parallel device execution and CI/CD integration.
+A mobile automation framework for Android apps (Wikipedia) with gesture automation and visual regression testing using OpenCV.
 
 **Tech:** Python, Appium, OpenCV, GitHub Actions
 
 ### [🔹 Desktop Pet – Focus Buddy](https://github.com/Chetansraw/focus-buddy)
-A playful terminal pet that reacts to your work habits – grows during focused sessions, gets sad when you open distractions. Gamifies productivity with leveling and persistent stats.
+A playful terminal pet that reacts to work habits – grows during focused sessions, gets sad when distractions are opened. Built to gamify productivity.
 
-**Tech:** Python, Pygame, system monitoring, JSON storage
+**Tech:** Python, Pygame, system monitoring
 
 ### [🔹 API Test Automation + CI/CD Pipeline](https://github.com/Chetansraw/api-test-automation)
-Comprehensive REST API test suite for Petstore, validating status codes, headers, and JSON schemas. Integrated into a CI/CD pipeline with automated Allure reporting and Slack notifications on failures.
+A REST API test suite for Petstore, validating status codes and JSON schemas. Integrated into a CI/CD pipeline with automated reporting.
 
 **Tech:** Python, Pytest, Requests, GitHub Actions, Allure
 
@@ -79,18 +78,17 @@ Comprehensive REST API test suite for Petstore, validating status codes, headers
 
 ---
 
-## 🏆 Achievements
+## 🏆 Activities
 
-- 🥈 Secured **2nd place** in inter‑university IT quiz “Tech Wizards” (2023)
-- 🏀 Represented school in **district‑level basketball tournaments**
-- 📄 Open‑source contributor – submitted documentation fixes to a popular testing tool
-- 📈 Consistently maintain **9.17 CGPA** during BCA
+- Participated in inter‑university IT quiz “Tech Wizards” (2023)
+- Represented school in district‑level basketball tournaments
+- Actively learning and contributing to personal projects
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively seeking **Automation Test Engineer / SDET roles** (4.5–8 LPA). Feel free to reach out – I'd love to chat about opportunities or collaboration!
+I'm actively seeking opportunities as an **Automation Test Engineer**. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chetan-rawat)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chetan9sr@gmail.com)
